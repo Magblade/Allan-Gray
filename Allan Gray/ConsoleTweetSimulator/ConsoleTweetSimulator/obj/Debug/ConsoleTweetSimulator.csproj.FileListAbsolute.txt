@@ -1,0 +1,5 @@
+C:\Users\Russel_Laptop\Documents\Visual Studio 2013\Projects\Allan Gray\ConsoleTweetSimulator\ConsoleTweetSimulator\bin\Debug\ConsoleTweetSimulator.exe
+C:\Users\Russel_Laptop\Documents\Visual Studio 2013\Projects\Allan Gray\ConsoleTweetSimulator\ConsoleTweetSimulator\bin\Debug\ConsoleTweetSimulator.pdb
+C:\Users\Russel_Laptop\Documents\Visual Studio 2013\Projects\Allan Gray\ConsoleTweetSimulator\ConsoleTweetSimulator\obj\Debug\ConsoleTweetSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Russel_Laptop\Documents\Visual Studio 2013\Projects\Allan Gray\ConsoleTweetSimulator\ConsoleTweetSimulator\obj\Debug\ConsoleTweetSimulator.exe
+C:\Users\Russel_Laptop\Documents\Visual Studio 2013\Projects\Allan Gray\ConsoleTweetSimulator\ConsoleTweetSimulator\obj\Debug\ConsoleTweetSimulator.pdb
